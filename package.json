@@ -12,7 +12,7 @@
     "axios": "^0.18.0",
     "core-js": "^2.6.5",
     "element-ui": "^2.7.2",
-    "vue": "^2.6.6",
+    "vue": "^2.6.10",
     "vue-class-component": "^6.0.0",
     "vue-property-decorator": "^8.0.0",
     "vue-router": "^3.0.1",
